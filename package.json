@@ -6,13 +6,10 @@
     "name": "Vadim Makeev",
     "url": "http://pepelsbey.net/"
   },
-  "homepage": "https://github.com/shower/shower",
+  "homepage": "https://github.com/d-jam/css-modules-presentation",
   "repository": {
     "type": "git",
-    "url": "git://github.com/shower/shower.git"
-  },
-  "bugs": {
-    "url": "http://github.com/shower/shower/issues"
+    "url": "git://github.com/d-jam/css-modules-presentation.git"
   },
   "license": "MIT",
   "keywords": [
