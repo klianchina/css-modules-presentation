@@ -6,13 +6,10 @@
     "name": "Vadim Makeev",
     "url": "http://pepelsbey.net/"
   },
-  "homepage": "https://github.com/shower/shower",
+  "homepage": "https://github.com/d-jam/css-modules-presentation",
   "repository": {
     "type": "git",
-    "url": "git://github.com/shower/shower.git"
-  },
-  "bugs": {
-    "url": "http://github.com/shower/shower/issues"
+    "url": "git://github.com/d-jam/css-modules-presentation.git"
   },
   "license": "MIT",
   "keywords": [
@@ -27,6 +24,7 @@
     "README.md"
   ],
   "dependencies": {
+    "gulp": "^3.9.1",
     "shower-core": "^2.1.0",
     "shower-material": "^1.1.0",
     "shower-ribbon": "^2.1.0"
