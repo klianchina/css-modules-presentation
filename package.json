@@ -1,10 +1,10 @@
 {
-  "name": "shower",
-  "description": "Shower HTML presentation engine",
-  "version": "2.3.0",
+  "name": "presentation",
+  "description": "CSS Modules presentation",
+  "version": "0.1.0",
   "author": {
-    "name": "Vadim Makeev",
-    "url": "http://pepelsbey.net/"
+    "name": "Tatiana Klianchina",
+    "url": "http://theworldismine.zzz.com.ua/"
   },
   "homepage": "https://github.com/d-jam/css-modules-presentation",
   "repository": {
