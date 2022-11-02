@@ -24,7 +24,7 @@
     "README.md"
   ],
   "dependencies": {
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "shower-core": "^2.1.0",
     "shower-material": "^1.1.0",
     "shower-ribbon": "^2.1.0"
@@ -33,7 +33,7 @@
     "browser-sync": "^2.18.12",
     "del": "^3.0.0",
     "fs": "0.0.2",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-gh-pages": "^0.5.4",
     "gulp-rename": "^1.2.2",
     "gulp-replace": "^0.6.1",
